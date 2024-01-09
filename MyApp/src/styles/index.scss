@@ -1,0 +1,9 @@
+@use 'reset';
+@use 'vars';
+
+html body {
+  background-color: vars.$color-main;
+  color: vars.$color-text;
+}
+
+
